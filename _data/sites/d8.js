@@ -21,7 +21,6 @@ module.exports = {
 		"https://www.lawhelpmn.org/",
 		"https://www.uwstout.edu/",
 		"https://www.minneapolis.edu/",
-		"https://www.mtcrimevictimhelp.org/",
 		"https://stemtc.scimathmn.org/",
 		"https://www.cgsi.org/",
 		"https://msimulation.umn.edu/",
